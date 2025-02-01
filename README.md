@@ -1,4 +1,4 @@
-# ur_boba_shop
+# ur_boba_shop 🧋
 
 A mobile application designed for a beverage business. It showcases : 
 - The business's products,
